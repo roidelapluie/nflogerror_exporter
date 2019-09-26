@@ -1,4 +1,4 @@
-# nflogerror_exporter
+nflogerror_exporter
 
 Quick hack to deal with alertmanager bug 2048
 

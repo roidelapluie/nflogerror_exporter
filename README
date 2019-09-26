@@ -1,0 +1,6 @@
+# nflogerror_exporter
+
+Quick hack to deal with alertmanager bug 2048
+
+
+Code is mainly coming from the prometheus/alertmanager codebase, to it comes with the same license.
